@@ -1,0 +1,20 @@
+{"type":0,"Name":"Ham","PricePer":.42,"Price":.42,"Description":"Pork product"}
+{"type":0,"Name":"Carrot","PricePer":0.25,"Price":0.25,"Description":"Orange veggie"}
+{"type":0,"Name":"Chicken","PricePer":.13,"Price":.13,"Description":"Poultry"}
+{"type":0,"Name":"Cheese","PricePer":0.34,"Price":0.34,"Description":"Used to be milk"}
+{"type":0,"Name":"Potato","PricePer":0.13,"Price":0.13,"Description":"Root veggie"}
+{"type":0,"Name":"Beef","PricePer":.74,"Price":.74,"Description":"Comes from cows"}
+{"type":0,"Name":"Pork","PricePer":0.23,"Price":0.23,"Description":"Comes from pigs"}
+{"type":0,"Name":"Fish","PricePer":0.50,"Price":0.50,"Description":"Salmon"}
+{"type":0,"Name":"Beans","PricePer":0.11,"Price":0.11,"Description":"Leggum product"}
+{"type":0,"Name":"Grapes","PricePer":0.12,"Price":0.12,"Description":"Grow on a vine"}
+{"type":1,"Name":"Box of Cereal","PricePer":3.8,"Price":3.8,"Description":"Tricks are for kids"}
+{"type":1,"Name":"Orange Juice","PricePer":1.30,"Price":1.30,"Description":"Rich in vitamin C"}
+{"type":1,"Name":"Bag of Coffee","PricePer":8.99,"Price":8.99,"Description":"A college must have"}
+{"type":1,"Name":"Avocado","PricePer":.99,"Price":.99,"Description":"Great with toast"}
+{"type":1,"Name":"Candy Bar","PricePer":1.29,"Price":1.29,"Description":"Lots of sugar"}
+{"type":1,"Name":"Potato Chips","PricePer":4.29,"Price":4.29,"Description":"Lots of salt"}
+{"type":1,"Name":"Dozen Eggs","PricePer":1.30,"Price":1.30,"Description":"Suprisingly nutrient dense"}
+{"type":1,"Name":"Loaf of Bread","PricePer":1.89,"Price":1.89,"Description":"Made from wheat"}
+{"type":1,"Name":"2 litre Soda","PricePer":2.99,"Price":2.99,"Description":"Sprite Zero"}
+{"type":1,"Name":"$50 Gift Card","PricePer":50,"Price":50,"Description":"Visa card redemable anywhere"}
